@@ -103,7 +103,7 @@ namespace VisualImageRename
             }
             
             // Change colors to normal
-            mainPreviewPB.BackColor = SystemColors.Control;
+            mainPreviewPB.BackColor = Color.Gainsboro;
             imageSelectFLP.BackColor = SystemColors.Control;
             
             // Enable controls

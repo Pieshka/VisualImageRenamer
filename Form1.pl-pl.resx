@@ -15,7 +15,7 @@
         <value>Ustaw wszystkim</value>
     </data>
     <data name="fileNameL.Text" xml:space="preserve">
-        <value>Nazwa pliku:</value>
+        <value>Nazwa:</value>
     </data>
     <data name="fileNameTB.ToolTip" xml:space="preserve">
         <value>Wpisz znak # w dowolnym miejscu nazwy pliku, aby uruchommić seryjne numerowanie od 1. Jeżeli tego nie zrobisz, to numer zostanie automatycznie dodany na końcu nazwy pliku.</value>

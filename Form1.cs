@@ -7,6 +7,7 @@ using System.Windows.Forms;
 using System.IO;
 using System.Reflection;
 using System.Resources;
+using System.Text.RegularExpressions;
 using System.Threading;
 using Microsoft.WindowsAPICodePack.Dialogs;
 
@@ -59,7 +60,8 @@ namespace VisualImageRename
             List<FileInfo> imageFiles = imageDir
                 .GetFiles("*")
                 .Where(f => allowedExtensions.Contains(Path.GetExtension(f.Name)))
-                .OrderBy(f => f.Name)
+                .OrderBy(file =>
+                    Regex.Replace(file.Name, @"\d+", match => match.Value.PadLeft(4, '0')))
                 .ToList();
             
             if (result == DialogResult.Yes) imageFiles = imageFiles.OrderBy(f => f.LastWriteTime).ToList();

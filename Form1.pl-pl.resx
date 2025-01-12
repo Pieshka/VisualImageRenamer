@@ -1,0 +1,56 @@
+﻿<root>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <data name="applyToAllB.Text" xml:space="preserve">
+        <value>Ustaw wszystkim</value>
+    </data>
+    <data name="fileNameL.Text" xml:space="preserve">
+        <value>Nazwa pliku:</value>
+    </data>
+    <data name="fileNameTB.ToolTip" xml:space="preserve">
+        <value>Wpisz znak # w dowolnym miejscu nazwy pliku, aby uruchommić seryjne numerowanie od 1. Jeżeli tego nie zrobisz, to numer zostanie automatycznie dodany na końcu nazwy pliku.</value>
+    </data>
+    <data name="loadFromDirectoryB.Text" xml:space="preserve">
+        <value>Załaduj z katalogu</value>
+    </data>
+    <data name="renameStartB.Text" xml:space="preserve">
+        <value>Zmień nazwy</value>
+    </data>
+    <data name="shiftLeftB.Text" xml:space="preserve">
+        <value>&lt;</value>
+    </data>
+    <data name="shiftRightB.Text" xml:space="preserve">
+        <value>&gt;</value>
+    </data>
+    <data name="$this.Text" xml:space="preserve">
+        <value>Układacz</value>
+    </data>
+    <data name="SortMethodText" xml:space="preserve">
+        <value>Czy chcesz sortować pliki po dacie modyfikacji?</value>
+    </data>
+    <data name="SortMethodTitle" xml:space="preserve">
+        <value>Metoda sortowania plików</value>
+    </data>
+    <data name="RenameSuccessful" xml:space="preserve">
+        <value>Zmiana nazw zakończona pomyślnie</value>
+    </data>
+    <data name="StartRenameText" xml:space="preserve">
+        <value>Za chwilę nastąpi zmiana nazwy oryginalnych plików. Czy na pewno chcesz kontynuować?</value>
+    </data>
+    <data name="StartRenameTitle" xml:space="preserve">
+        <value>Potwierdz zmianę nazw</value>
+    </data>
+    <data name="NoImagesFound" xml:space="preserve">
+        <value>Nie znaleziono zdjęć</value>
+    </data>
+</root>

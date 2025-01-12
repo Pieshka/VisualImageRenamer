@@ -130,7 +130,7 @@
     <value>3, 3</value>
   </data>
   <data name="mainPreviewPB.Size" type="System.Drawing.Size, System.Drawing">
-    <value>763, 394</value>
+    <value>763, 428</value>
   </data>
   <data name="mainPreviewPB.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
     <value>Zoom</value>
@@ -160,7 +160,7 @@
     <value>False</value>
   </data>
   <data name="shiftLeftB.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 15.75pt</value>
+    <value>Wingdings 3, 15.75pt</value>
   </data>
   <data name="shiftLeftB.Location" type="System.Drawing.Point, System.Drawing">
     <value>3, 3</value>
@@ -172,7 +172,7 @@
     <value>0</value>
   </data>
   <data name="shiftLeftB.Text" xml:space="preserve">
-    <value>Shift Left</value>
+    <value>|</value>
   </data>
   <data name="&gt;&gt;shiftLeftB.Name" xml:space="preserve">
     <value>shiftLeftB</value>
@@ -193,7 +193,7 @@
     <value>False</value>
   </data>
   <data name="shiftRightB.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 15.75pt</value>
+    <value>Wingdings 3, 15.75pt</value>
   </data>
   <data name="shiftRightB.Location" type="System.Drawing.Point, System.Drawing">
     <value>689, 3</value>
@@ -205,7 +205,7 @@
     <value>1</value>
   </data>
   <data name="shiftRightB.Text" xml:space="preserve">
-    <value>Shift Right</value>
+    <value>}</value>
   </data>
   <data name="&gt;&gt;shiftRightB.Name" xml:space="preserve">
     <value>shiftRightB</value>
@@ -253,7 +253,7 @@
     <value>Fill</value>
   </data>
   <data name="tableLayoutPanel2.Location" type="System.Drawing.Point, System.Drawing">
-    <value>3, 403</value>
+    <value>3, 437</value>
   </data>
   <data name="tableLayoutPanel2.RowCount" type="System.Int32, mscorlib">
     <value>1</value>
@@ -283,13 +283,13 @@
     <value>False</value>
   </data>
   <data name="renameStartB.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 14.25pt</value>
+    <value>Microsoft Sans Serif, 8.25pt</value>
   </data>
   <data name="renameStartB.Location" type="System.Drawing.Point, System.Drawing">
-    <value>269, 42</value>
+    <value>186, 34</value>
   </data>
   <data name="renameStartB.Size" type="System.Drawing.Size, System.Drawing">
-    <value>183, 34</value>
+    <value>147, 24</value>
   </data>
   <data name="renameStartB.TabIndex" type="System.Int32, mscorlib">
     <value>3</value>
@@ -310,13 +310,13 @@
     <value>0</value>
   </data>
   <data name="loadFromDirectoryB.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 14.25pt</value>
+    <value>Microsoft Sans Serif, 8.25pt</value>
   </data>
   <data name="loadFromDirectoryB.Location" type="System.Drawing.Point, System.Drawing">
-    <value>3, 42</value>
+    <value>3, 34</value>
   </data>
   <data name="loadFromDirectoryB.Size" type="System.Drawing.Size, System.Drawing">
-    <value>254, 34</value>
+    <value>177, 24</value>
   </data>
   <data name="loadFromDirectoryB.TabIndex" type="System.Int32, mscorlib">
     <value>3</value>
@@ -340,13 +340,13 @@
     <value>False</value>
   </data>
   <data name="applyToAllB.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 14.25pt</value>
+    <value>Microsoft Sans Serif, 8.25pt</value>
   </data>
   <data name="applyToAllB.Location" type="System.Drawing.Point, System.Drawing">
-    <value>458, 6</value>
+    <value>622, 5</value>
   </data>
   <data name="applyToAllB.Size" type="System.Drawing.Size, System.Drawing">
-    <value>183, 34</value>
+    <value>138, 25</value>
   </data>
   <data name="applyToAllB.TabIndex" type="System.Int32, mscorlib">
     <value>2</value>
@@ -370,13 +370,13 @@
     <value>False</value>
   </data>
   <data name="fileNameTB.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 14.25pt</value>
+    <value>Microsoft Sans Serif, 8.25pt</value>
   </data>
   <data name="fileNameTB.Location" type="System.Drawing.Point, System.Drawing">
-    <value>131, 8</value>
+    <value>79, 8</value>
   </data>
   <data name="fileNameTB.Size" type="System.Drawing.Size, System.Drawing">
-    <value>321, 29</value>
+    <value>537, 20</value>
   </data>
   <data name="fileNameTB.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
@@ -400,13 +400,13 @@
     <value>3</value>
   </data>
   <data name="fileNameL.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 14.25pt</value>
+    <value>Microsoft Sans Serif, 8.25pt</value>
   </data>
   <data name="fileNameL.Location" type="System.Drawing.Point, System.Drawing">
     <value>9, 11</value>
   </data>
   <data name="fileNameL.Size" type="System.Drawing.Size, System.Drawing">
-    <value>116, 23</value>
+    <value>64, 17</value>
   </data>
   <data name="fileNameL.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -430,10 +430,10 @@
     <value>Fill</value>
   </data>
   <data name="panel1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>3, 570</value>
+    <value>3, 604</value>
   </data>
   <data name="panel1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>763, 95</value>
+    <value>763, 61</value>
   </data>
   <data name="panel1.TabIndex" type="System.Int32, mscorlib">
     <value>2</value>
@@ -478,7 +478,7 @@
     <value>0</value>
   </data>
   <data name="tableLayoutPanel1.LayoutSettings" type="System.Windows.Forms.TableLayoutSettings, System.Windows.Forms">
-    <value>&lt;?xml version="1.0" encoding="utf-16"?&gt;&lt;TableLayoutSettings&gt;&lt;Controls&gt;&lt;Control Name="mainPreviewPB" Row="0" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="tableLayoutPanel2" Row="1" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="panel1" Row="2" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;/Controls&gt;&lt;Columns Styles="Percent,100" /&gt;&lt;Rows Styles="Percent,60,Percent,25,Percent,15" /&gt;&lt;/TableLayoutSettings&gt;</value>
+    <value>&lt;?xml version="1.0" encoding="utf-16"?&gt;&lt;TableLayoutSettings&gt;&lt;Controls&gt;&lt;Control Name="mainPreviewPB" Row="0" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="tableLayoutPanel2" Row="1" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="panel1" Row="2" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;/Controls&gt;&lt;Columns Styles="Percent,100" /&gt;&lt;Rows Styles="Percent,65,Percent,25,Percent,10" /&gt;&lt;/TableLayoutSettings&gt;</value>
   </data>
   <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>True</value>
@@ -493,7 +493,7 @@
     <value>785, 707</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>Image Renamer</value>
+    <value>Visual Image Rename</value>
   </data>
   <data name="&gt;&gt;toolTip1.Name" xml:space="preserve">
     <value>toolTip1</value>
@@ -507,22 +507,22 @@
   <data name="&gt;&gt;$this.Type" xml:space="preserve">
     <value>System.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="NoImagesFound" xml:space="preserve">
-    <value>Images not found</value>
-  </data>
-  <data name="RenameSuccessful" xml:space="preserve">
-    <value>Name change successfully completed</value>
-  </data>
-  <data name="SortMethodText" xml:space="preserve">
-    <value>Do you want to sort files by modification date?</value>
-  </data>
-  <data name="SortMethodTitle" xml:space="preserve">
-    <value>File sorting method</value>
+  <data name="StartRenameTitle" xml:space="preserve">
+    <value>Confirm name changes</value>
   </data>
   <data name="StartRenameText" xml:space="preserve">
     <value>The original files will be renamed in a moment. Are you sure you want to continue?</value>
   </data>
-  <data name="StartRenameTitle" xml:space="preserve">
-    <value>Confirm renaming</value>
+  <data name="SortMethodTitle" xml:space="preserve">
+    <value>File sorting method</value>
+  </data>
+  <data name="SortMethodText" xml:space="preserve">
+    <value>Do you want to sort files by modification date?</value>
+  </data>
+  <data name="RenameSuccessful" xml:space="preserve">
+    <value>Name change successfully completed</value>
+  </data>
+  <data name="NoImagesFound" xml:space="preserve">
+    <value>No images found</value>
   </data>
 </root>

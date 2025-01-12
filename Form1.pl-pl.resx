@@ -27,10 +27,10 @@
         <value>Zmień nazwy</value>
     </data>
     <data name="shiftLeftB.Text" xml:space="preserve">
-        <value>&lt;</value>
+        <value>|</value>
     </data>
     <data name="shiftRightB.Text" xml:space="preserve">
-        <value>&gt;</value>
+        <value>}</value>
     </data>
     <data name="$this.Text" xml:space="preserve">
         <value>Układacz</value>
@@ -48,7 +48,7 @@
         <value>Za chwilę nastąpi zmiana nazwy oryginalnych plików. Czy na pewno chcesz kontynuować?</value>
     </data>
     <data name="StartRenameTitle" xml:space="preserve">
-        <value>Potwierdz zmianę nazw</value>
+        <value>Potwierdź zmianę nazw</value>
     </data>
     <data name="NoImagesFound" xml:space="preserve">
         <value>Nie znaleziono zdjęć</value>
